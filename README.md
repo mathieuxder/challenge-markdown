@@ -16,3 +16,9 @@ Favorite food | Spaghetti
 Pinneapple on pizza? 
 - [ ] yes
 - [ ] no 
+
+### Hobbies
+playing instruments
+*Guitar
+*Bass
+*Ukulele
