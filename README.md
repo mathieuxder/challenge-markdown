@@ -19,6 +19,6 @@ Pinneapple on pizza?
 
 ### Hobbies
 * playing instruments
- * Guitar
- * Bass
- * Ukulele
+    * Guitar
+    * Bass
+    * Ukulele
