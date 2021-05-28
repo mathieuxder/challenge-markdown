@@ -22,3 +22,13 @@ Pinneapple on pizza?
     * Guitar
     * Bass
     * Ukulele
+* Reading 
+
+####  You can always count on me when 
+Je suis la si vous avez de parler.Peu importe vos difficultés ou vos problèmes vous pouvez venir me voir si vous avez besoin d'aide et si j'ai pas la reponse on peux chercher ensemble la solution.
+
+##### A funny story
+
+Quand j'etait petit je prenais toutes les casseroles de ma cuisine et et deux cuilleres en bois.Je les disposait autour de moi en imaginant que c'est une batterie.
+
+###### Mes parent pouvaient assister à un concert de grande qualité...
