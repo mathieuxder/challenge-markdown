@@ -7,7 +7,7 @@
 ## Bienveillant,Ouvert d'esprit  
 
 information | answer
----------------------
+------------|---------
 Birthday | 14/09
 Gender | Male
 Favorite color | Green
