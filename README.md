@@ -12,5 +12,4 @@ Birthday | 14/09
 Gender | Male
 Favorite color | Green
 Favorite food | Spaghetti
-Pinneapple on pizza? | - [ ] yes
- - [ ] no 
+Pinneapple on pizza?  - [ ] yes - [ ] no 
