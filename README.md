@@ -6,8 +6,10 @@
 
 ## Bienveillant,Ouvert d'esprit  
 
-Birthday|14/09
-Gender|Male
-Favorite color|Green
-Favorite food |Spaghetti
-Pinneapple on pizza? - [yes] - [no]
+information | answer
+---------------------
+Birthday | 14/09
+Gender | Male
+Favorite color | Green
+Favorite food | Spaghetti
+Pinneapple on pizza? - [] 
