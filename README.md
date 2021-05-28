@@ -18,7 +18,7 @@ Pinneapple on pizza?
 - [ ] no 
 
 ### Hobbies
-playing instruments
-*Guitar
-*Bass
-*Ukulele
+*playing instruments
+ *Guitar
+ *Bass
+ *Ukulele
