@@ -13,6 +13,6 @@ Gender | Male
 Favorite color | Green
 Favorite food | Spaghetti
 
-Pinneapple on pizza? |
+Pinneapple on pizza? 
 - [ ] yes
 - [ ] no 
